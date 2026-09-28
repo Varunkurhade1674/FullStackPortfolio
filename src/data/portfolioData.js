@@ -119,8 +119,20 @@ export const projects = [
     name: "AuditFlow",
     category: "AI-Powered Multi-Agent Document Auditing System",
     description:
-      "A multi-agent document auditing system using Groq-hosted Llama 3.3 to automate document review, with a Streamlit interface.",
-    stack: ["Python", "Streamlit", "Groq Llama 3.3"],
+      "Built a Multi-Agent AI system that automates document auditing, risk analysis, and audit report generation using specialized AI agents.",
+    features: [
+      "Automated document auditing",
+      "Risk analysis",
+      "Audit report generation",
+      "Specialized AI agents collaboration",
+    ],
+    stack: [
+      "Python",
+      "Streamlit",
+      "Groq Llama 3.3",
+      "Agentic AI",
+      "Prompt Engineering",
+    ],
     github: null,
     demo: null,
   },
