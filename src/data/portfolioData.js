@@ -105,7 +105,12 @@ export const projects = [
     name: "SQLMind AI",
     category: "Enterprise Text-to-SQL Platform",
     description:
-      "An enterprise text-to-SQL platform that translates natural language into SQL queries, built with a FastAPI/React stack backed by PostgreSQL and Llama 3.",
+      "Developed an AI-powered platform that converts natural language into executable SQL queries with an interactive interface for query execution and visualization.",
+    features: [
+      "Natural language to SQL",
+      "Interactive query execution",
+      "Data visualization",
+    ],
     stack: ["Python", "FastAPI", "React", "PostgreSQL", "Llama 3"],
     github: null,
     demo: null,
